@@ -81,6 +81,8 @@ Use the following command:
 git pull
 ```
 
+#Git-Exercise: STAT ID 129
+
 ## Resources:
 Git Cheat Sheet: https://education.github.com/git-cheat-sheet-education.pdf  
 GitHub Documentation: https://docs.github.com/en/repositories
